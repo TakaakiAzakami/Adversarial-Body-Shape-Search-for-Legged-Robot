@@ -1,8 +1,9 @@
 # Adversarial Body Shape Search for Legged Robot
 
+IEEE SMC
+
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945257
 
-![diff_evo10.pdf](https://github.com/TakaakiAzakami/Adversarial-Body-Shape/files/10578602/diff_evo10.pdf)
 <img width="582" alt="diff_evo10" src="https://user-images.githubusercontent.com/109128805/216598893-ab768ab7-3548-450b-9887-6290fb8b1f3f.png">
 
 
