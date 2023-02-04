@@ -3,8 +3,7 @@
 <img width="582" alt="diff_evo10" src="https://user-images.githubusercontent.com/109128805/216598893-ab768ab7-3548-450b-9887-6290fb8b1f3f.png">
 
 IEEE SMC
-
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945257
+(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9945257)
 
  # Ant-v2
 
