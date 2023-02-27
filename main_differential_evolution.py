@@ -2,8 +2,6 @@ import gym
 import pprint
 import numpy as np
 from scipy.optimize import differential_evolution
-import adv2
-import adv3
 import make_adv_size_humanoid
 import make_adv_size_ant
 import make_adv_size_walker2d
