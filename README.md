@@ -2,7 +2,7 @@
 
 <img width="582" alt="diff_evo10" src="https://user-images.githubusercontent.com/109128805/216598893-ab768ab7-3548-450b-9887-6290fb8b1f3f.png">
 
-# How to generate adversarial body shape
+# How to generate Adversarial Body Shape
 ```
 python main_for_differential_evolution.py
 ```
