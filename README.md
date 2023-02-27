@@ -4,7 +4,7 @@
 
 # How to generate Adversarial Body Shape
 ```
-python main_for_differential_evolution.py
+python main_differential_evolution.py
 ```
 
  # e.g.Ant-v2
