@@ -4,11 +4,9 @@ import numpy as np
 from scipy.optimize import differential_evolution
 import make_adv_size_humanoid
 import make_adv_size_ant
-import make_adv_size_walker2d
 import make_adv_size_a1
 import make_adv_length_humanoid
 import make_adv_length_ant
-import make_adv_length_walker2d
 import make_adv_length_a1
 import datetime
 import csv
